@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrashToTreasure", "TrashToTreasure\TrashToTreasure.csproj", "{E46D893F-9E79-4510-B3CB-FF8AECACF2FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E46D893F-9E79-4510-B3CB-FF8AECACF2FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E46D893F-9E79-4510-B3CB-FF8AECACF2FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E46D893F-9E79-4510-B3CB-FF8AECACF2FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E46D893F-9E79-4510-B3CB-FF8AECACF2FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF82F11F-B3FA-49B6-B98A-B816C5894D9D}
+	EndGlobalSection
+EndGlobal

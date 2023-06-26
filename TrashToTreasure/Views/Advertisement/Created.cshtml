@@ -1,0 +1,15 @@
+﻿@model TrashToTreasure.Models.Models.Advertisement
+@if(ViewBag.Result>0){
+    <h1>Dodano Twoje ogłoszenie</h1>
+    <h2>Szczegóły ogłoszenia:</h2>
+    <table>
+        <thead>Tytuł</thead>
+        <thead>Opis</thead>
+        <thead>Cena</thead>
+    </table>
+}
+else{
+    <h1>Wystąpił problem przy dodawaniu Twojego ogłoszenia.</h1>
+    <p><a href="@Url.Action("Create", "Advertisement")">Spróbuj ponownie</a></p>
+}
+
